@@ -1,7 +1,7 @@
 import {useState} from 'react'
-import Ils from './components/Ils';
-import Sls from './components/Sls';
-import Social from './components/Social';
+import Ils from './components/Ils.js';
+import Sls from './components/Sls.js';
+import Social from './components/Social.js';
 
 function Services(){
 

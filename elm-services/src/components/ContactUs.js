@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import EmployeeApp from './components/EmployeeApp';
+import EmployeeApp from './components/EmployeeApp.js';
 
 function ContactUs(){
 

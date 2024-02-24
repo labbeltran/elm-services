@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import ReferralForm from './components/ReferralForm'
+import ReferralForm from './components/ReferralForm.js'
 
 function Referral(){
 
